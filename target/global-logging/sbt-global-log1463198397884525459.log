@@ -1,0 +1,7 @@
+[debug] > Exec(test, None, None)
+[debug] Evaluating tasks: Test / test
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes ...
+[info] done compiling
+[success] Total time: 2 s, completed 26.11.2021 16:51:41
+[debug] > Exec(idea-shell, None, None)

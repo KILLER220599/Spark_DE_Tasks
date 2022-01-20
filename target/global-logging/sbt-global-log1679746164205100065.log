@@ -1,0 +1,11 @@
+[debug] > Exec(all {file:/C:/Users/KRyzhov/IdeaProjects/test/}test/products {file:/C:/Users/KRyzhov/IdeaProjects/test/}test/test:products, None, None)
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes ...
+[info] Non-compiled module 'compiler-bridge_2.11' for Scala 2.11.12. Compiling...
+[info]   Compilation completed in 8.925s.
+[info] done compiling
+[success] Total time: 19 s, completed 19.11.2021 14:47:39
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

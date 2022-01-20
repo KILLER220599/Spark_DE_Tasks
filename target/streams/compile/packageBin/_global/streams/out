@@ -1,0 +1,29 @@
+[debug] Packaging C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\test_2.11-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	Task_1$$anonfun$1.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_1$$anonfun$1.class
+[debug] 	Task_1$$anonfun$2.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_1$$anonfun$2.class
+[debug] 	Task_1$.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_1$.class
+[debug] 	Task_1$delayedInit$body.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_1$delayedInit$body.class
+[debug] 	Task_1.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_1.class
+[debug] 	Task_2$$anonfun$1.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_2$$anonfun$1.class
+[debug] 	Task_2$.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_2$.class
+[debug] 	Task_2$delayedInit$body.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_2$delayedInit$body.class
+[debug] 	Task_2.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\Task_2.class
+[debug] 	test$$anonfun$1.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\test$$anonfun$1.class
+[debug] 	test$$anonfun$2.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\test$$anonfun$2.class
+[debug] 	test$.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\test$.class
+[debug] 	test.class
+[debug] 	  C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes\test.class
+[debug] Done packaging.

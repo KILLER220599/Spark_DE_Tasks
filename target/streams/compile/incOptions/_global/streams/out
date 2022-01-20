@@ -1,0 +1,66 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes.bak
+[debug] About to delete class files:
+[debug] 	Task_4$.class
+[debug] 	Task_3.class
+[debug] 	Task_1.class
+[debug] 	Task_2.class
+[debug] 	Task_2$delayedInit$body.class
+[debug] 	Task_2$.class
+[debug] 	Task_1$.class
+[debug] 	Task_1$$anonfun$2.class
+[debug] 	Task_3$.class
+[debug] 	Task_1$$anonfun$1.class
+[debug] 	Task_3$delayedInit$body.class
+[debug] 	Task_4$delayedInit$body.class
+[debug] 	Task_2$$anonfun$1.class
+[debug] 	Task_4.class
+[debug] 	Task_1$delayedInit$body.class
+[debug] We backup class files:
+[debug] 	Task_4$.class
+[debug] 	Task_3.class
+[debug] 	Task_1.class
+[debug] 	Task_2.class
+[debug] 	Task_2$delayedInit$body.class
+[debug] 	Task_2$.class
+[debug] 	Task_1$.class
+[debug] 	Task_1$$anonfun$2.class
+[debug] 	Task_3$.class
+[debug] 	Task_1$$anonfun$1.class
+[debug] 	Task_3$delayedInit$body.class
+[debug] 	Task_4$delayedInit$body.class
+[debug] 	Task_2$$anonfun$1.class
+[debug] 	Task_4.class
+[debug] 	Task_1$delayedInit$body.class
+[debug] Registering generated classes:
+[debug] 	test.class
+[debug] 	Task_4$.class
+[debug] 	Task_3.class
+[debug] 	Task_1.class
+[debug] 	Task4_v2$delayedInit$body.class
+[debug] 	Task1_v2.class
+[debug] 	Task1_v3.class
+[debug] 	Task3_v2$.class
+[debug] 	Task_2.class
+[debug] 	Task3_v2.class
+[debug] 	Task_2$delayedInit$body.class
+[debug] 	Task1_v3$delayedInit$body.class
+[debug] 	Task_2$.class
+[debug] 	Task_1$.class
+[debug] 	Task_1$$anonfun$2.class
+[debug] 	Task1_v2$delayedInit$body.class
+[debug] 	Task1_v2$.class
+[debug] 	Task1_v3$.class
+[debug] 	Task4_v2.class
+[debug] 	Task_3$.class
+[debug] 	Task4_v2$.class
+[debug] 	Task_1$$anonfun$1.class
+[debug] 	Task_3$delayedInit$body.class
+[debug] 	test$delayedInit$body.class
+[debug] 	Task3_v2$delayedInit$body.class
+[debug] 	Task_4$delayedInit$body.class
+[debug] 	Task_2$$anonfun$1.class
+[debug] 	Task1_v2$$anonfun$recurs_task$1.class
+[debug] 	test$.class
+[debug] 	Task_4.class
+[debug] 	Task_1$delayedInit$body.class
+[debug] Removing the temporary directory used for backing up class files: C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes.bak

@@ -1,0 +1,8 @@
+[debug] > Exec(assemble, None, None)
+[error] Not a valid command: assemble
+[error] Not a valid project ID: assemble
+[error] Expected ':'
+[error] Not a valid key: assemble (similar: name, cancelable)
+[error] assemble
+[error]         ^
+[debug] > Exec(idea-shell, None, None)

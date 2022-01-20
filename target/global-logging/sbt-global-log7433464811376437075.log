@@ -1,0 +1,16 @@
+[debug] > Exec(all {file:/C:/Users/KRyzhov/IdeaProjects/test/}test/products {file:/C:/Users/KRyzhov/IdeaProjects/test/}test/test:products, None, None)
+[warn] build source files have changed
+[warn] modified files: 
+[warn]   C:\Users\KRyzhov\IdeaProjects\test\build.sbt
+[warn]   C:\Users\KRyzhov\IdeaProjects\test\plugins.sbt
+[warn] Apply these changes by running `reload`.
+[warn] Automatically reload the build when source changes are detected by setting `Global / onChangedBuildSource := ReloadOnSourceChanges`.
+[warn] Disable this warning by setting `Global / onChangedBuildSource := IgnoreSourceChanges`.
+[debug] Evaluating tasks: Compile / products, Test / products
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\KRyzhov\IdeaProjects\test\target\scala-2.11\classes ...
+[info] done compiling
+[success] Total time: 6 s, completed 26.11.2021 10:58:56
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
